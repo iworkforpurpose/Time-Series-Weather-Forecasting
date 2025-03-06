@@ -26,7 +26,7 @@ Visualization: Time series plots, prediction vs. actual trend analysis.
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/time-series-weather-forecasting.git
+git clone https://github.com/iworkforpurpose/Time-Series-Weather-Forecasting
 cd time-series-weather-forecasting
 Create and activate a virtual environment (optional but recommended):
 
