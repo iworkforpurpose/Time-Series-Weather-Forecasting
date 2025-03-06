@@ -44,10 +44,10 @@ Open Lstm_Model_Future_Forecasting_WeatherDataset.ipynb and execute all the cell
 
 Project Structure
 
-Time_series_Weather_forecasting/
-├── jena_climate_2009_2016.csv     # Dataset containing historical weather data
-├── Lstm_Model_Future_Forecasting_WeatherDataset.ipynb  # Jupyter Notebook for forecasting
-└── README.md                      # Project documentation
+    Time_series_Weather_forecasting/
+    ├── jena_climate_2009_2016.csv     
+    ├── Lstm_Model_Future_Forecasting_WeatherDataset.ipynb  
+    └── README.md                    
 
 Contributing
 Contributions are welcome! To contribute:
