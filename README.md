@@ -15,6 +15,7 @@ License
 Acknowledgements
 Data
 The dataset used in this project is jena_climate_2009_2016.csv, which contains weather data from 2009 to 2016, including temperature, humidity, pressure, and wind speed.
+Data : https://drive.google.com/file/d/1vSyjqCaX8p_7VXfvgLe4BztVSuaJr16x/view?usp=sharing
 
 Features
 Time Series Data Preprocessing: Data cleaning, handling missing values, and resampling.
